@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 :# profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -90,7 +90,7 @@ author:
   location         : "Rochester, New York"
   employer         :
   pubmed           :
-  orcid            : # "http://orcid.org/0009-0002-2373-4907"
+  orcid            : "http://orcid.org/0009-0002-2373-4907"
   googlescholar    : "https://scholar.google.com/citations?user=Obh2NOwAAAAJ&hl=en"
   email            : "dyrit@rit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -189,9 +189,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  #projects:
-  #  output: true
-  #  permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
