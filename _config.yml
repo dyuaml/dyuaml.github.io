@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dayou Yu"
 title_separator          : "-"
-name                     : &name "Dingrong Wang"
+name                     : &name "Dayou Yu"
 description              : &description "PhD in Computing and Information Sciences"
 url                      : https://dyrit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dingrong Wang"
-  avatar           : "profile.png"
-  bio              : "Reinforcement Learning Researcher"
-  location         :
+  name             : "Dayou Yu"
+  avatar           : #"profile1.png"
+  bio              : "Active Learning Researcher"
+  location         : "Rochester, New York"
   employer         :
   pubmed           :
-  orcid            : # "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=v--3Zr0AAAAJ&hl=en"
-  email            : "dw7445@rit.edu"
+  orcid            : # "http://orcid.org/0009-0002-2373-4907"
+  googlescholar    : "https://scholar.google.com/citations?user=Obh2NOwAAAAJ&hl=en"
+  email            : "dyrit@rit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wdr123"
+  github           : "dyrit"
   gitlab           : # "wdr123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dingrong-wang-56a203179"
+  linkedin         : "dayou-yu-8436b7268"
   mastodon         : # "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
@@ -189,9 +189,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  #projects:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
