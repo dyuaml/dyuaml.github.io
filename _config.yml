@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dingrong Wang"
+title                    : "Dayou Yu"
 title_separator          : "-"
 name                     : &name "Dingrong Wang"
 description              : &description "PhD in Computer Science"
 url                      : https://wdr123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wdr123/wdr123.github.io"
+repository               : "dyrit/dyrit.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
