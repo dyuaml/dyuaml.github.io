@@ -1,0 +1,10 @@
+---
+title: "STARS: spatial-temporal active re-sampling for label-efficient learning from noisy annotations"
+collection: publications
+permalink: /publication/2023-stars
+date: 2023-06-26
+venue: 'AAAI 2023'
+paperurl: '/files/pdf/research/2023-STARS.pdf'
+link: 'https://ojs.aaai.org/index.php/AAAI/article/view/26301'
+citation: 'Yu, D., Shi, W. and Yu, Q., 2023, June. STARS: spatial-temporal active re-sampling for label-efficient learning from noisy annotations. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 9, pp. 10980-10988).'
+---
