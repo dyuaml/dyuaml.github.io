@@ -1,0 +1,10 @@
+---
+title: "The development of thermodynamically consistent and physics-informed equation-of-state model through machine learning"
+collection: publications
+permalink: /publication/2024-mleos
+date: 2024-05-07
+venue: 'APL Machine Learning'
+paperurl: '/files/pdf/research/2024-MLEOS.pdf'
+link: 'https://pubs.aip.org/aip/aml/article/2/2/026116/3289350/The-development-of-thermodynamically-consistent'
+citation: 'Hinz, J., Yu, D., Pandey, D.S., Sapkota, H., Yu, Q., Mihaylov, D.I., Karasiev, V.V. and Hu, S.X., 2024. The development of thermodynamically consistent and physics-informed equation-of-state model through machine learning. APL Machine Learning, 2(2).'
+---
