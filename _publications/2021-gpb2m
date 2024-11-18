@@ -1,0 +1,10 @@
+---
+title: "A gaussian process-bayesian bernoulli mixture model for multi-label active learning"
+collection: publications
+permalink: /publication/2021-gpb2m
+date: 2021-09-21
+venue: 'NeurIPS 2021'
+paperurl: '/files/pdf/research/2021-GPB2M.pdf'
+link: 'https://par.nsf.gov/servlets/purl/10336203'
+citation: 'Shi, W., Yu, D. and Yu, Q., 2021. A gaussian process-bayesian bernoulli mixture model for multi-label active learning. Advances in Neural Information Processing Systems, 34, pp.27542-27554.'
+---
