@@ -7,13 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: Reinforcement learning research and applications, where I develop novel algorithms
-to handle well-known difficult problems in RL training, such as ```offline learning, uncertainty-aware RL, semi-supervised RL``` to handle data limitation and sub-optimality problems.
-
-My other main research agenda uses advanced RL methods combining with uncertainty theory to help predict user's preference on movies (```recommender system, multi-modal fusion```),
-predict ASD patients from time series data recording from their reactions when playing a game (```medicine, time sequence prediction```), and CV related ```image based sketch retrieval, object detection```, etc.
-
-Now, my focus is on applying RL to language models for text summarization and traditional backbone networks for architecture search to solve ```Lottery Ticket Hypothesis``` problem.
+My doctoral research in active learning aims to tackle the critical challenges of data efficiency, model robustness, and adaptability. By extending AL to handle noisy, dynamic, and complex data, and by adapting it for the foundation model era, my work seeks to make machine learning both more powerful and more accessible across domains. As a faculty member, I look forward to expanding this research, fostering interdisciplinary collaborations, and training the next generation of scientists to push the boundaries of what machine learning can achieve in the real world.
 
 
 <nbsp>
