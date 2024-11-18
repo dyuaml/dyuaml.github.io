@@ -1,0 +1,10 @@
+---
+title: "Discover-Then-Rank Unlabeled Support Vectors in the Dual Space for Multi-Class Active Learning"
+collection: publications
+permalink: /publication/2023-dtrust
+date: 2023-04-24
+venue: 'ICML 2023'
+paperurl: '/files/pdf/research/2023-DTRUST.pdf'
+link: 'https://openreview.net/forum?id=jsPzZ4Q6ne'
+citation: 'Yu, D., Shi, W. and Yu, Q., 2023, July. Discover-Then-Rank Unlabeled Support Vectors in the Dual Space for Multi-Class Active Learning. In International Conference on Machine Learning (pp. 40321-40338). PMLR.'
+---
