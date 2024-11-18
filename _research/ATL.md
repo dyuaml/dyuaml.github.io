@@ -1,11 +1,11 @@
 ---
 title: "Active Testing-while-Learning Framework"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ATL.png' alt=''>"
+excerpt: "<img src='/images/research/ATL.PNG' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "research/ATL.png"
+  og_image: "research/ATL.PNG"
 ---
 
 In this research, I propose a novel active testing-while-learning framework that deal with limited labeing budget for 
