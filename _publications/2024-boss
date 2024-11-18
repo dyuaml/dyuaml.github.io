@@ -1,0 +1,10 @@
+---
+title: "BOSS: Diversity-Difficulty Balanced One-Shot Subset Selection for Data-Efficient Deep Learning"
+collection: publications
+permalink: /publication/2024-boss
+date: 2023-09-21
+venue: 'ICML 2024'
+paperurl: '/files/pdf/research/2024-BOSS.pdf'
+link: 'https://openreview.net/forum?id=QcgvtqxRhI'
+citation: 'Acharya, A., Yu, D., Yu, Q. and Liu, X., BOSS: Diversity-Difficulty Balanced One-Shot Subset Selection for Data-Efficient Deep Learning. In ICML 2024.'
+---
