@@ -5,15 +5,12 @@ excerpt: "<img src='/images/research/offline.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/offline.png"
+  og_image: "research/GPB2M.png"
 ---
 
-In this research I study the property of offline learning. Combining conservative Q learning with Double DQN actor-critic structure, also I add a regularizer from SAC model,
-I have a derivation to show that the model can still get a conservative bound comparing to traditional Double DQN, assuming the uncertainty follows a Gaussian Distribution with fixed variance.
-And I use a recommender system problem to the effectiveness of this method.
+In this research we propose to conduct multi-label active learning (ML-AL) through a novel integrated Gaussian Process-Bayesian Bernoulli Mixture model (GP-B2M) to accurately quantify a data sample’s overall contribution to a correlated label space and choose the most informative samples for cost-effective annotation. In particular, the B2M encodes label correlations using a Bayesian Bernoulli mixture of label clusters, where each mixture component corresponds to a global pattern of label correlations. To tackle highly sparse labels under AL, the B2M is further integrated with a predictive GP to connect data features as an effective inductive bias and achieve a feature-component-label mapping. The GP predicts coefficients of mixture components that help to recover the final set of labels of a data sample. A novel auxiliary variable based variational inference algorithm is developed to tackle the non-conjugacy introduced along with the mapping process for efficient end-to-end posterior inference. The model also outputs a predictive distribution that provides both the label prediction and their correlations in the form of a label covariance matrix. A principled sampling function is designed accordingly to naturally capture both the feature uncertainty (through GP) and label covariance (through B2M) for effective data sampling. Experiments on real-world multi-label datasets demonstrate the state-of-the-art AL performance of the proposed model.
 ## Article
 
-Dingrong Wang et al. "Conservative Evidential Learning of Long-Term User Preferences" *In Submission*.
+Weishi Shi, Dayou Yu, Qi Yu. "A gaussian process-bayesian bernoulli mixture model for multi-label active learning" *NeurIPS 2021*.
 
-[//]: # (>)
-[//]: # ([Article]&#40;https://doi.org/10.1177/07388942211015242&#41;{: .btn--research} [Preprint]&#40;/files/pdf/research/Turning the Lights on.pdf&#41;{: .btn--research} [Supplemental Information]&#40;/files/pdf/research/Turning the Lights on SI.pdf&#41;{: .btn--research} [Replication Archive]&#40;https://journals.sagepub.com/doi/suppl/10.1177/07388942211015242&#41;{: .btn--research} [GitHub Repo]&#40;https://github.com/jayrobwilliams/conflict-preemption&#41;{: .btn--research} [Poster]&#40;/files/pdf/research/PSS 2018 Poster.pdf&#41;{: .btn--research})
+
