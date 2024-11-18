@@ -1,0 +1,10 @@
+---
+title: "Actively testing your model while it learns: realizing label-efficient learning in practice"
+collection: publications
+permalink: /publication/2023-atl
+date: 2023-09-21
+venue: 'NeurIPS 2023'
+paperurl: '/files/pdf/research/2023-ATL.pdf'
+link: 'https://openreview.net/forum?id=ILte9L8Nu3'
+citation: 'Yu, D., Shi, W. and Yu, Q., 2024. Actively testing your model while it learns: realizing label-efficient learning in practice. Advances in Neural Information Processing Systems, 36.'
+---
