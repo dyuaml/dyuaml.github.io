@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a machine learning and reinforcement learning researcher who strives to solve difficult problems in AGI field. I am also an affiliated
-researcher with the [Machine Learning and Data Intensive Computing Lab](https://www.rit.edu/mining/).
+Welcome! I am a machine learning researcher and a current PhD candidate in Computing and Information Sciences at [Rochester Institute *of* Technology](https://www.rit.edu/). I am working in the [Machine Learning and Data Intensive Computing Lab](https://www.rit.edu/mining/) under my advisor [Dr. Qi Yu](https://www.rit.edu/directory/qyuvks-qi-yu/).
 
-Currently I am a PhD candidate in Computer Science from the [Rochester Institute *of* Technology](https://www.rit.edu/) and my
-B.E. in Software Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/).
-My academic work has been [published](publications) or is forthcoming in
-*ICDM*, *KDD*, *ICML*, *Neurips*, *MICCAI*, *ACM MM*, among other outlets. This [research](research) tries to solve RL online interaction unavailability under safety or economic concerns by using a broad variety of methods such as
-offline learning, inverse RL, distributional RL, meta learning and active learning. While primarily focused on small dataset novel algorithm development, I am also enthusiastic in applying RL
-technique to real-world problems in CV, NLP, recommender system, medicine, etc. 
+My doctoral research focuses on active learning, including theory, algorithms, and applications. I am particularly interested in active learning with challenges such as noisy labels and limited validation labeling budgets. I am also closely collaborating with the [High-Energy-Density Physics (HEDP) Theory Group](https://www.lle.rochester.edu/education/research-areas/high-energy-density-physics-hedp-theory-group/) from [University of Rochester](https://www.rochester.edu/). 
+My works have been [published](publications) or is forthcoming in *NeurIPS*, *AAAI*, *ICML*, *IOP:MLST*, among other outlets. In these [research projects](research), I try to solve challenging issues of multi-label active learning, noisy-label active learning, active testing-while-learning, active test-time adaptation of large pre-trained foundation models, and data-efficient physics-informed machine learning models. While primarily focused on machine learning novel algorithm development, I am enthusiastic about applying active learning and other learning techniques to real-world problems in Computer Vision, Natural Language Processing, Scientific Experimental Design, Medical Research, Augmented & Virtual Reality, etc. 
 
 [//]: # (I have [teaching]&#40;teaching&#41; experience)
 
