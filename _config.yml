@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dayou Yu"
 title_separator          : "-"
 name                     : &name "Dayou Yu"
-description              : &description "PhD in Computing and Information Sciences"
+description              : &description "Assistant professor in Data Science, PhD in Computing and Information Sciences"
 url                      : https://dyrit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dyrit/dyrit.github.io"
@@ -71,8 +71,8 @@ analytics:
 author:
   name             : "Dayou Yu"
   avatar           : "profile.png"
-  bio              : "Active Learning Researcher (PhD Candidate)"
-  location         : "Rochester, New York"
+  bio              : "Active Learning Researcher"
+  location         : "Memphis, Tennessee"
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0009-0002-2373-4907"
